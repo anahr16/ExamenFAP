@@ -31,7 +31,7 @@ public class RegistroCtaCorrienteServlet extends HttpServlet {
         String ejecutivo = request.getParameter("ejecutivo");
 
         // Crear una nueva cuenta corriente
-        CtaCorriente nuevaCtaCorriente = new CtaCorriente();
+        CtaCorriente nuevaCtaCorriente = new CtaCorriente(100.0);
         nuevaCtaCorriente.setRutCliente(rutCliente);
         nuevaCtaCorriente.setMonto(monto);
         nuevaCtaCorriente.setEjecutivo(ejecutivo);

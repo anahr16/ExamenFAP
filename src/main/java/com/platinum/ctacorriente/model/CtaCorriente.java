@@ -18,7 +18,7 @@ public class CtaCorriente {
     private BigDecimal monto;
     private String ejecutivo;
 
-    public CtaCorriente() {
+    public CtaCorriente(double par) {
     }
 
     public CtaCorriente(int idCuenta, String rutCliente, BigDecimal monto, String ejecutivo) {
