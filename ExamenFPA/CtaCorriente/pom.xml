@@ -8,7 +8,7 @@
     </parent>
     <artifactId>CtaCorriente</artifactId>
      <packaging>war</packaging>
-    <name> Banco </name>
+    <name> Cuenta </name>
     
     <dependencies>
   <!-- Dependencia MySQL -->
