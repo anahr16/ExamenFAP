@@ -60,4 +60,11 @@
         </plugin>
     </plugins>
 </build>
+    <distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>a0p0k10mywmvz-artifactory-primary-0-snapshots</name>
+        <url>https://anahr18.jfrog.io/artifactory/examenfinal1-libs-snapshot</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>
