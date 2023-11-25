@@ -10,7 +10,7 @@
     <name>My Construccion</name>
 
     <modules>
-        <module>Construc2</module>
+        <module>CuentaBanco</module>
     </modules>
 
     <properties>
