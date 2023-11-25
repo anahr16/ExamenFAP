@@ -8,10 +8,10 @@
     <artifactId>CtaCorriente</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>My Construccion</name>
+    <name> Banco App</name>
 
     <modules>
-        <module>ExamenFPA</module>
+        <module>CtaCorriente</module>
     </modules>
 
     <properties>
