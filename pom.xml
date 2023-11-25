@@ -11,7 +11,7 @@
     <name> Banco App</name>
 
     <modules>
-        <module>CtaCorriente</module>
+        <module>ExamenFPA</module>
     </modules>
 
     <properties>
