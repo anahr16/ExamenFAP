@@ -10,7 +10,7 @@
     <name>My Construccion</name>
 
     <modules>
-        <module>CuentaBanco</module>
+        <module>ExamenFPA</module>
     </modules>
 
     <properties>
