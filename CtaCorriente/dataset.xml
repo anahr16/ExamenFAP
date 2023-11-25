@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <tabla1 id="1" columna1="valor1" columna2="valor2" />
+    <tabla1 id="2" columna1="valor3" columna2="valor4" />
+    <!-- Agrega más filas según sea necesario para tus pruebas -->
+</dataset>
